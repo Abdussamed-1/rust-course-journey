@@ -18,13 +18,13 @@ fn variables_and_constants() {
 
     const PI: f32 = 3.14159;
 
-    println!("Yas: {}", age);
-    println!("Puan: {}", points);
+    println!("Age: {}", age);
+    println!("No: {}", points);
     println!("PI: {}", PI);
 }
 
 fn arithmetic_examples() {
-    println!("\n2) Aritmetik Islemler");
+    println!("\n2) Arithmethic Operations ");
 
     let a = 12;
     let b = 5;

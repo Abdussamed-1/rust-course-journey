@@ -2,5 +2,7 @@
 name = "rust-course"
 version = "0.1.0"
 edition = "2024"
+default-run = "rust-course"
+description = "Zero to hero Rust: temellerden elle yazilmis AES-128/AES-256'ya"
 
 [dependencies]

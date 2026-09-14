@@ -62,7 +62,7 @@ fn loop_examples() {
     }
     println!("Basla!");
 }
-
+// Function Examples
 fn function_examples() {
     println!("\n5) Function");
 

@@ -80,7 +80,7 @@ fn square(x: i32) -> i32 {
 fn sum(a: i32, b: i32) -> i32 {
     a + b
 }
-
+// Tuple and Array Examples
 fn tuple_and_array_examples() {
     println!("\n6) Tuple and Array");
 

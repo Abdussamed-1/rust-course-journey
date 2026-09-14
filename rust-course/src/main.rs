@@ -22,7 +22,7 @@ fn variables_and_constants() {
     println!("No: {}", points);
     println!("PI: {}", PI);
 }
-
+// Arithmetic Examples
 fn arithmetic_examples() {
     println!("\n2) Arithmethic Operations ");
 
